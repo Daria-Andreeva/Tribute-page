@@ -34,6 +34,7 @@ body {
 #img-div {
     margin: auto;
     padding: 15px;
+    align: center;
 }
 
 #img-caption {
@@ -41,6 +42,8 @@ body {
     margin-bottom: 0px;
     padding-bottom: -5px;
     margin-top: 0px;
+    align: center;
+    margin: auto;
 }
 
 img {
@@ -48,6 +51,7 @@ img {
     max-width: 100%;
     align: center;
     display: block;
+    margin: auto;
 }
 
 #info,
